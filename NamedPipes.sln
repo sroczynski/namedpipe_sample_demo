@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipes.Server", "NamedPipes.Server\NamedPipes.Server.csproj", "{A8E5EE75-400D-4822-A396-42206C5E6112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipes.Client", "NamedPipes.Client\NamedPipes.Client.csproj", "{B47FECF7-0643-411E-A3CB-0354FB32E300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E5EE75-400D-4822-A396-42206C5E6112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E5EE75-400D-4822-A396-42206C5E6112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E5EE75-400D-4822-A396-42206C5E6112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E5EE75-400D-4822-A396-42206C5E6112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B47FECF7-0643-411E-A3CB-0354FB32E300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47FECF7-0643-411E-A3CB-0354FB32E300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47FECF7-0643-411E-A3CB-0354FB32E300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47FECF7-0643-411E-A3CB-0354FB32E300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C0E914-2860-4917-8270-56A5F2C67887}
+	EndGlobalSection
+EndGlobal
